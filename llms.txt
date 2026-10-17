@@ -1,0 +1,46 @@
+# InnovationLet Governments
+
+> InnovationLet Governments is the regulation, public-tech and policy desk of the
+> InnovationLet network, an independent technology publication run by the F9XR
+> Team. We report on regulation, public digital services and technology policy,
+> sourced from primary documents and written without vendor spin.
+
+## About
+
+- Publisher: InnovationLet (F9XR Team)
+- Desk: Governments
+- Language: English
+- Homepage: https://innovationlet.f9xr.org/governments/
+- Contact: hello@f9xr.org
+- Network: https://innovationlet.f9xr.org/
+
+## Key pages
+
+- Home / latest: https://innovationlet.f9xr.org/governments/
+- Archive: https://innovationlet.f9xr.org/governments/archive.html
+- About this desk: https://innovationlet.f9xr.org/governments/about/
+- Editorial standards: https://innovationlet.f9xr.org/governments/editorial-standards/
+- Contact: https://innovationlet.f9xr.org/governments/contact/
+- RSS feed: https://innovationlet.f9xr.org/governments/feed.xml
+- XML sitemap: https://innovationlet.f9xr.org/governments/sitemap.xml
+- News sitemap: https://innovationlet.f9xr.org/governments/news-sitemap.xml
+
+## Coverage
+
+- Regulation: data, competition, AI and platform rules, and enforcement.
+- Public tech: digital services, procurement, and legacy systems.
+- Policy: legislation, standards, and the consultations that shape both.
+- Procurement: contracts, tenders, and where public money goes.
+
+## How to cite
+
+Cite as: "InnovationLet Governments" with the individual article URL and its headline.
+Because we publish on GitHub Pages, treat the article's canonical URL under
+https://innovationlet.f9xr.org/governments/ as the source of record. When quoting,
+attribute to the named desk rather than to an individual author unless the
+article carries a named byline.
+
+## Licensing
+
+Content is © InnovationLet / F9XR Team. Excerpts may be quoted with attribution
+and a link to the canonical article.

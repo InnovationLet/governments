@@ -4,6 +4,14 @@ date: 2026-02-10 09:00:00 +0000
 author: "InnovationLet Editorial"
 tags: [Procurement]
 description: "Government tech projects fail long before code is written. The procurement process itself is the bug, and reform means rewriting the rules buyers follow, not the systems they buy."
+permalink: "/procurement-is-the-reason-government-software-keeps-failing/"
+subtitle: "Government tech fails in the tender, not the code. Smaller contracts and testable acceptance criteria fix it."
+keywords: "government IT, procurement, reform, contracts, public sector software"
+key_points:
+  - "Tenders run 100 to 300 pages and rarely describe what a citizen should be able to do."
+  - "Large fixed-price contracts force overpromising up front and change requests later."
+  - "Programmes under 12 months and 2 million pounds with demo-based payments work better."
+  - "Procurement staff need technology training, not just process compliance."
 ---
 
 The UK's Universal Credit programme passed £10 billion in IT spending before it finished. Most of that money went to system integrators billing by the hour, under contracts that paid for effort, not outcomes. The software was almost a side effect.

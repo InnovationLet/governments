@@ -4,6 +4,14 @@ date: 2026-03-30 09:00:00 +0000
 author: "InnovationLet Editorial"
 tags: [Public tech]
 description: "Governments run critical services on software written before most developers were born. The real bill isn't the replacement project, it's the decades of maintenance and single points of failure."
+permalink: "/legacy-systems-cost-more-to-keep-alive-than-to-replace/"
+subtitle: "Most modernisation money keeps the old system running. Incremental replacement is the only approach with a record of finishing."
+keywords: "legacy systems, modernization, COBOL, government IT, public sector"
+key_points:
+  - "About 70% of the IRS modernisation budget went to running the old system in parallel."
+  - "COBOL specialist rates run $300 to $600 an hour and the talent pool is retiring."
+  - "Big-bang replacements routinely overrun; incremental wrapping-and-replacing works."
+  - "Demand the current system's all-in run rate before approving any replacement."
 ---
 
 In 2024, the IRS still ran parts of its Individual Master File on COBOL, software first written in 1962. When Congress allocated modernisation money, roughly 70% went to keeping the old system running in parallel. The new system was a minority of the budget.

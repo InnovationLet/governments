@@ -4,6 +4,14 @@ date: 2026-05-19 09:00:00 +0000
 author: "InnovationLet Editorial"
 tags: [Policy]
 description: "Public consultations shape AI, data, and platform rules, but most responses get ignored. Here's how to write one that gets read, and how to tell which consultations actually matter."
+permalink: "/how-to-read-a-tech-consultation-like-a-policy-insider/"
+subtitle: "Some consultations decide first and ask later. Here is how to tell, and how to write one that gets read."
+keywords: "consultations, policy, AI Act, regulation, government process"
+key_points:
+  - "Impact assessments and named alternatives signal a consultation that is still open."
+  - "Evidence-heavy responses outperform passionate but data-light ones."
+  - "Submit in the first week and request a meeting with the analysts."
+  - "Read the published summary of responses to train for the next round."
 ---
 
 The EU's 2020 consultation on the AI Act drew over 1,000 responses. Analyses published after adoption found the final regulation tracked closer to input from large firms and industry associations than from civil society. Influence in consultations isn't evenly distributed, and it isn't random.
